@@ -1,0 +1,6 @@
+{
+  "name": "Coin Quest",
+  "description": "A magical life-adventure game where children earn coins through everyday parent-guided habits, make their own money choices, build dreams, grow coins in the compounding garden, and achieve their goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
